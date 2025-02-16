@@ -5,6 +5,6 @@ DC, AC and transient analysis of common source amplifier using LTspice
 
 To simulate the DC, AC and transient anlysis of common source amplifier using LTspice.
 
-### COMPONENTS REQUIRED:
+#### COMPONENTS REQUIRED:
 
 LTspice simulation software and 180um library files

@@ -3,7 +3,8 @@ Question: Given the power as P=100µw, Perform AC, DC and Transient analysis for
 
 ### CIRCUIT DIAGRAM-1 :
 
-![LT SC](https://github.com/user-attachments/assets/b7fcf9cd-cf47-4cff-a80a-93426c82dcda)
+![Screenshot (3)](https://github.com/user-attachments/assets/4881e263-4090-4d59-99d6-f7d710e71284)
+
 
 ### PROCEDURE:
 BY using the power formula P=V*I 

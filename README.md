@@ -38,6 +38,4 @@ LTspice simulation software and 180um library files
 Simulated the DC, AC and Transient analysis using LTspice software.
 
 ### INFERENCE:
-* If there is a power comsuption and VDD value we can find drain current by using I=P/V.
-* Using saturation drain current equation find the legnth and width.
-* 
+

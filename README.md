@@ -33,3 +33,11 @@ LTspice simulation software and 180um library files
 * Go to simulate and select the configure analysis.
 * Select the transient and set stop time as 1ms.
 * Click on run simulation and select the input point and output point.
+
+### RESULT:
+Simulated the DC, AC and Transient analysis using LTspice software.
+
+### INFERENCE:
+* If there is a power comsuption and VDD value we can find drain current by using I=P/V.
+* Using saturation drain current equation find the legnth and width.
+* 

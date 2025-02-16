@@ -15,3 +15,8 @@ LTspice simulation software and 180um library files
 
 ### PROCEDURE:
 #### 1. DC Analysis
+* Design the circuit as per the given circuit diagram.
+* Right click on power supply and set as input voltage 0.9v and VDD as 1.8v.
+* Go to simulate and select the configure analysis.
+* Select the DC op pnt and run the simulation.
+

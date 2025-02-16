@@ -12,6 +12,7 @@ Id=5.55e-005A
 #### 1. DC Analysis
 Go to simulate, select the dc output print and the run the simulation.
 ![image](https://github.com/user-attachments/assets/ef924102-e523-4182-a514-e4dd73970e36)
+
 This figure shows the output of dc analysis
   ![image](https://github.com/user-attachments/assets/4c472f89-bbfc-4ee4-ae45-14294029eebb)
 

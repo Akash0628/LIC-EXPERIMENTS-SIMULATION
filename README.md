@@ -15,4 +15,4 @@ LTspice simulation software and 180um library files
 
 ### PROCEDURE:
 
-* FDHSHDJ
+#### 1. DC Analysis

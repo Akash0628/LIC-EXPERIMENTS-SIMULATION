@@ -41,13 +41,14 @@ The below graph shows the output of transient analysis.
 ### PROCEDURE
 #### 1. DC Sweep analysis
 This analysis used to find the vin value.
-Go to simulate, Select a dc sweep analysis, Give the valsues as shown below and run the simulation.
+Go to simulate, Select a dc sweep analysis, Give the values as shown below and run the simulation.
 ![image](https://github.com/user-attachments/assets/33d5b92c-a501-43eb-a134-30cc05e216e1)
 
 Below graph shows the VTC curve and the value of vin as 0.8v
 ![image](https://github.com/user-attachments/assets/c9c9e3d4-0a57-4356-b84d-8a821b9c8448)
 
 Now give the input as 
+
 ![image](https://github.com/user-attachments/assets/bb1c591b-4d3a-4344-b2f2-80372af8567a)
 
 The length and width of the NMOS and PMOS tranistor as shown in the below figure
@@ -57,6 +58,7 @@ The length and width of the NMOS and PMOS tranistor as shown in the below figure
 
 #### 2. DC Analysis
 Go to simulate, Select the dc output print and the run the simulation.
+
 ![image](https://github.com/user-attachments/assets/daef7b7e-e64c-4510-8f23-e55121daa510)
 
 #### 3. AC Analysis

@@ -14,7 +14,8 @@ Go to simulate, Select the dc output print and the run the simulation.
 ![image](https://github.com/user-attachments/assets/ef924102-e523-4182-a514-e4dd73970e36)
 
 This figure shows the output of dc analysis
-  ![image](https://github.com/user-attachments/assets/4c472f89-bbfc-4ee4-ae45-14294029eebb)
+  ![image](https://github.com/user-attachments/assets/11e5cc97-94ec-408a-bf4c-c5c8ad44dd46)
+
 
 #### 2. AC Analysis
 Go to simulate, Select the ac analysis, Give the values as shown below and run the simulation.

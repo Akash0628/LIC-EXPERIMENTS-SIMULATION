@@ -1,2 +1,2 @@
-# LIC-EXPERIMENTS-SIMULATION
-Linear integrated circuits 
+# EXPERIMENT-1
+# 

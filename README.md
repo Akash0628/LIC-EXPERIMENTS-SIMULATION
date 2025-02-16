@@ -29,7 +29,48 @@ The below graph shows the output of transient analysis.
 ![image](https://github.com/user-attachments/assets/eee3db42-638e-430f-9aaf-1dd7c4141f70)
 
 ### RESULT:
-
+* I got the calculated drain current=5.55e-005 in DC analysis output by calculating the NMOS length=175nm and width=178nm.
 
 ### INFERENCE:
+
+### CIRCUIT DIAGRAM-2:
+![image](https://github.com/user-attachments/assets/aa571835-21ea-4ca5-942e-f7bcbca4cc25)
+
+### PROCEDURE
+#### 1. DC Sweep analysis
+This analysis used to find the vin value.
+Go to simulate, Select a dc sweep analysis, Give the valsues as shown below and run the simulation.
+![image](https://github.com/user-attachments/assets/33d5b92c-a501-43eb-a134-30cc05e216e1)
+
+Below graph shows the VTC curve and the value of vin as 0.8v
+![image](https://github.com/user-attachments/assets/c9c9e3d4-0a57-4356-b84d-8a821b9c8448)
+
+Now give the input as 
+![image](https://github.com/user-attachments/assets/bb1c591b-4d3a-4344-b2f2-80372af8567a)
+
+The length and width of the NMOS and PMOS tranistor as shown in the below figure
+![image](https://github.com/user-attachments/assets/283c39f0-5eea-4292-a833-91b5da308a6b)
+
+![image](https://github.com/user-attachments/assets/3641668c-d141-48e5-b0e2-aac11a9b014c)
+
+#### 2. DC Analysis
+Go to simulate, Select the dc output print and the run the simulation.
+![image](https://github.com/user-attachments/assets/daef7b7e-e64c-4510-8f23-e55121daa510)
+
+#### 3. AC Analysis
+Go to simulate, Select the ac analysis, Give the values as shown below and run the simulation.
+![image](https://github.com/user-attachments/assets/6d629781-a005-40d2-87f3-e2b178e2ad4c)
+
+Below graph shows the output of the AC analysis.
+![image](https://github.com/user-attachments/assets/cbcdaa25-38e7-4266-8034-4108e9402a90)
+
+#### 4. Transient analysis
+Go to simulate, Set the stop time as 1ms and run the simulation.
+The below graph shows the output of transient analysis.
+![image](https://github.com/user-attachments/assets/c0f8f7c7-ed03-4867-8433-047d7c474862)
+
+### RESULT:
+
+### INFERENCE:
+
 

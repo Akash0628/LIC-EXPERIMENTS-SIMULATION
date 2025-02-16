@@ -12,3 +12,7 @@ LTspice simulation software and 180um library files
 ### CIRCUIT DIAGRAM
 
 ![LT SC](https://github.com/user-attachments/assets/b7fcf9cd-cf47-4cff-a80a-93426c82dcda)
+
+### PROCEDURE:
+
+* FDHSHDJ

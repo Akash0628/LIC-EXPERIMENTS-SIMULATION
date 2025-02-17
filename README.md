@@ -35,9 +35,17 @@ The below graph shows the output of transient analysis.
 ![image](https://github.com/user-attachments/assets/eee3db42-638e-430f-9aaf-1dd7c4141f70)
 
 ### RESULT:
-* I got the calculated drain current=5.55e-005 in DC analysis output by calculating the NMOS length=175nm and width=178nm.
+* got the calculated drain current=5.55e-005 in DC analysis output by calculating the NMOS length=175nm and width=178nm.
+* The circuit maintains its performance across the tested frequency range.
+* The circuit reacts well to changes and conforming its stability.
 
 ### INFERENCE:
+* Drain current indicates whether MOSFET is in sturation region.
+* The regions of the MOSFET depends on VGS value.
+* Coupling and bypass capacitors affect the frequency response.
+* Gain depends on the MOSFET parameters.
+* To simulate add a Specific components library files to simulated software.
+* Adjust the length and width of the MOSFET to get calculated drain current value in simulation.
 
 ### CIRCUIT DIAGRAM-2:
 
@@ -85,7 +93,10 @@ The below graph shows the output of transient analysis.
 ![image](https://github.com/user-attachments/assets/c0f8f7c7-ed03-4867-8433-047d7c474862)
 
 ### RESULT:
-
+* By varying the channel dimensions (L,W) of both MOSFET (M1 & M2), The desired currnt was achived at
+   1. M1: L=500nm, W=950nm.
+   2. M2: L=300nm, W=1020nm.
+*The gain is 3.8dB and phase shift   
 ### INFERENCE:
 
 

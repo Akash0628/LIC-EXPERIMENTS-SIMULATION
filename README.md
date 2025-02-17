@@ -96,7 +96,12 @@ The below graph shows the output of transient analysis.
 * By varying the channel dimensions (L,W) of both MOSFET (M1 & M2), The desired currnt was achived at
    1. M1: L=500nm, W=950nm.
    2. M2: L=300nm, W=1020nm.
-*The gain is 3.8dB and phase shift   
+* The gain is 3.8dB and phase shift  which is nealy 180 degree align with theoretical expectations.
+* The circuit responds effectively to input variations, indicating stable operation.
+
 ### INFERENCE:
-
-
+* By DC sweep analysis, get the input DC voltsge.
+* By varying the MOSFET dimensions, Get the calculated drain currnt value in simulation.
+* Vary both MOSFET(M1 & M2) to get the calculated drain current.
+* Set the AC amplitude as 1 in the AC analysis.
+* In DC sweep analysis we get the VTC curve at output.
